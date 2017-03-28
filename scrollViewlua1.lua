@@ -1,6 +1,6 @@
 --工具包引入
 --require "lv_kit"
-require "mytest"
+require "lua1"
 
 
 local scrW, scrH= System:screenSize()
